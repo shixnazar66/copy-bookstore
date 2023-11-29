@@ -1,3 +1,4 @@
+//toza popka ochip qoship get shu fayilni
 import {
     CanActivate,
     ExecutionContext,
